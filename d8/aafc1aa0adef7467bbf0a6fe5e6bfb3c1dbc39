@@ -1,0 +1,22 @@
+packages/miniflare/src/workers/observability/trace-types.ts
+  s_5ecbd2fee50d6c::t_cb404391724ccf 1-35
+packages/miniflare/src/workers/observability/trace-store.ts
+  s_5ecbd2fee50d6c::t_2d624d8a1801e2 80-88,131,153
+  s_5ecbd2fee50d6c::t_d0a2cf855d1093 16,18,57-64,89-90,92-105,116-121,123-130,132-142,144-152,154-155,157-169
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "d8aafc1aa0adef7467bbf0a6fe5e6bfb3c1dbc39",
+  "prompts": {},
+  "sessions": {
+    "s_5ecbd2fee50d6c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f16d6f634ffeUURpIZ7b7Kwb8v",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "William Perron <wperron@cloudflare.com>"
+    }
+  }
+}
