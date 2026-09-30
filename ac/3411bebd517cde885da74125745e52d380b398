@@ -1,0 +1,37 @@
+packages/miniflare/scripts/openapi-filter-config.ts
+  s_5ecbd2fee50d6c::t_76cebc822c6463 1888-1964,2505-2571
+packages/miniflare/src/workers/local-explorer/explorer.worker.ts
+  s_5ecbd2fee50d6c::t_93922bad6ce30d 56-61,448-451
+packages/miniflare/src/workers/local-explorer/generated/index.ts
+  s_5ecbd2fee50d6c::t_5abae22d5a13ea 108-114,121-125
+packages/miniflare/src/workers/local-explorer/generated/types.gen.ts
+  s_5ecbd2fee50d6c::t_17b451a63d7a0f 854-899,2764-2819
+packages/miniflare/src/workers/local-explorer/generated/zod.gen.ts
+  s_5ecbd2fee50d6c::t_80deedb08abe5a 580-612,1692-1717
+packages/miniflare/src/workers/local-explorer/openapi.local.json
+  s_5ecbd2fee50d6c::t_ac258836289f74 3013-3084,4623-4742
+packages/miniflare/src/workers/local-explorer/resources/observability.ts
+  s_5ecbd2fee50d6c::t_ae06e72d24fde4 57-62,90-99
+packages/miniflare/src/workers/local-explorer/route-names.ts
+  s_5ecbd2fee50d6c::t_975e4f56b37956 39
+packages/miniflare/src/workers/observability/trace-store.ts
+  s_5ecbd2fee50d6c::t_2d624d8a1801e2 16,96-97,109-126,139-156,158-180,183-203,207-230,400-417
+packages/miniflare/test/plugins/local-explorer/observability.spec.ts
+  s_5ecbd2fee50d6c::t_e023e22f9d2c5e 154-178
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "ac3411bebd517cde885da74125745e52d380b398",
+  "prompts": {},
+  "sessions": {
+    "s_5ecbd2fee50d6c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f16d6f634ffeUURpIZ7b7Kwb8v",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "William Perron <wperron@cloudflare.com>"
+    }
+  }
+}
