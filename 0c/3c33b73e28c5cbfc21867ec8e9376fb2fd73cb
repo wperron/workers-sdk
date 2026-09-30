@@ -1,0 +1,32 @@
+packages/miniflare/src/workers/observability/trace-types.ts
+  s_5ecbd2fee50d6c::t_cb404391724ccf 1-35
+packages/miniflare/src/workers/observability/trace-store.ts
+  s_5ecbd2fee50d6c::t_8df32e986da4ca 132-136
+  s_5ecbd2fee50d6c::t_34c13661d38fa1 101-103
+  s_5ecbd2fee50d6c::t_7051f81132c438 105
+  s_5ecbd2fee50d6c::t_d0a2cf855d1093 16,18,57-64,95,97-98,104,131,144-148,157-169
+  s_5ecbd2fee50d6c::t_5c205885f8e751 137,154-155
+  s_5ecbd2fee50d6c::t_96f2063a9fc1eb 140-142
+  s_5ecbd2fee50d6c::t_119f5f7f686203 92-94
+  s_5ecbd2fee50d6c::t_57c104adecfb17 96
+  s_5ecbd2fee50d6c::t_19086cfea03d7a 99-100
+  s_5ecbd2fee50d6c::t_a05f927b69979e 128-130
+  s_5ecbd2fee50d6c::t_cd5d004fa6e702 138-139
+  s_5ecbd2fee50d6c::t_e07dcc3f7b327e 149-153
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "0c3c33b73e28c5cbfc21867ec8e9376fb2fd73cb",
+  "prompts": {},
+  "sessions": {
+    "s_5ecbd2fee50d6c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f16d6f634ffeUURpIZ7b7Kwb8v",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "William Perron <wperron@cloudflare.com>"
+    }
+  }
+}
