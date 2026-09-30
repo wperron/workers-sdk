@@ -1,0 +1,19 @@
+packages/miniflare/src/workers/observability/metrics.ts
+  s_5ecbd2fee50d6c::t_3e65def5251d5e 150,152-153,156-158,189,191,199,201-219,310-315,320-323,358,360,362
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.6.10",
+  "base_commit_sha": "4b5638bed84e1c2cd4e2a1a39e4b537b0f60f6d7",
+  "prompts": {},
+  "sessions": {
+    "s_5ecbd2fee50d6c": {
+      "agent_id": {
+        "tool": "opencode",
+        "id": "ses_f16d6f634ffeUURpIZ7b7Kwb8v",
+        "model": "gpt-5.6-sol"
+      },
+      "human_author": "William Perron <wperron@cloudflare.com>"
+    }
+  }
+}
